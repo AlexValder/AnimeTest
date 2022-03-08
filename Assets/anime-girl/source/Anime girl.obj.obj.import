@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Anime girl.obj.obj-6ba0750a657e46f595c6569b88bdf213.mesh"
+
+[deps]
+
+files=[ "res://.import/Anime girl.obj.obj-6ba0750a657e46f595c6569b88bdf213.mesh" ]
+
+source_file="res://Assets/anime-girl/source/Anime girl.obj.obj"
+dest_files=[ "res://.import/Anime girl.obj.obj-6ba0750a657e46f595c6569b88bdf213.mesh", "res://.import/Anime girl.obj.obj-6ba0750a657e46f595c6569b88bdf213.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
